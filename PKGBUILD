@@ -1,6 +1,6 @@
 # Maintainer: Robert Ulmer <arch.x(at)frontexpers.com>
 pkgname="filius"
-pkgver="2.10.1"
+pkgver="2.11.0"
 pkgrel=1
 pkgdesc="Educational network simulation program for learning TCP/IP and computer networking concepts"
 arch=('any')
@@ -16,7 +16,7 @@ source=(
     "filius.desktop"
 )
 b2sums=('46d1ca720beaca66c3cee19e24487a1468f361751daed1705161edf8b61b05a699a9077252c330d13176342930fa414b1628a790b996a8cf275ef6ac6dab5f6b'
-        '23db275c72cbae3814508ac8e87a5dfc6e8e2a48eac8984dcb2f5fde5d9b950abba733833e355390673b88ecbe4e56618bbd0245cc609a73725a6b9a22492c74'
+        '8175f4f9e34a35b93d4a5bc0f14d17c683a95cd65fc0b0b3a58c998c2415c26d4754ddf9b3b936873a24cca52fa1005fdd6e30b3bffe333a85bf0c92ab48c98b'
         '2b000e42027082d7e194ba5ba0e829db5f89b310233bd3bdc732ccf3c176602a3b82f3c82dde137a7d3795145b525747ba6154118a4d48d4d89907edfd559eb1'
         'c219fd70872d79ad4d60fda99cf5157aa7b70ee271f6c29de26b4ee72de910cbb2142c434a4363bbc42be9482d9cbdb16041a073317ada24a5321296472b5ee2'
         '2cc5ed3f28a1b4ac58e56f785eef881f053396b9dc6984139321c12d32b81bb1a2708a53d1224f8ca22014dad750a674c54449c24db9e33cc694432c98befc4d')
